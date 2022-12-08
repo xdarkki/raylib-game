@@ -4,7 +4,7 @@ This is a 3D multiplayer shooter that is based on raylib. It is a locally versio
 
 Installation:
 ---
-Open the [installation page]() and go to the section installation. Download the latest Windows version and execute the .exe file on your Desktop. The installation could take some time...
+Open the [installation page]() and go to the section installation. Download the latest Windows version and execute the .exe file on your Desktop. The installation could take some time. After the excute you need to apply some options for the Installation.
 
 **Steps:**
 
